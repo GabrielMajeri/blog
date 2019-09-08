@@ -4,11 +4,13 @@ email: gabriel.majeri6@gmail.com
 description: >
   An intelligent monkey's collection of thoughts on the modern world.
 
+# Theme selection
 theme: minima
-show_excerpts: true
 
-minima:
-  social_links:
-    github: GabrielMajeri
-    linkedin: gabriel-majeri
-    twitter: gabrielmajeri
+# Social media links
+github_username: GabrielMajeri
+linkedin_username: gabriel-majeri
+twitter_username: gabrielmajeri
+
+# Show excerpts of blog posts on main page
+show_excerpts: true
