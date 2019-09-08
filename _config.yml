@@ -1,0 +1,14 @@
+title: Gabriel's Blog
+author: Gabriel Majeri
+email: gabriel.majeri6@gmail.com
+description: >
+  An intelligent monkey's collection of thoughts on the modern world.
+
+theme: minima
+show_excerpts: true
+
+minima:
+  social_links:
+    github: GabrielMajeri
+    linkedin: gabriel-majeri
+    twitter: gabrielmajeri
