@@ -8,6 +8,10 @@ description: >
 show_excerpts: true
 excerpt_separator: <!-- more -->
 
+# Use Disqus for comments
+disqus:
+  shortname: blog-gabrielmajeri-ro
+
 # Social media links
 github_username: GabrielMajeri
 linkedin_username: gabriel-majeri

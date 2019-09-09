@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Organize your life with online tools"
+comments: true
 ---
 
 Feel like you're falling behind your daily schedule? Do you wish you had more hours in a day to have time to do what you like? In truth, each of us gets (more or less) the same amount of time to spend on Earth; it's within our power to organize our life and try to spend as much of this time as we can doing something we care about.
@@ -9,7 +10,7 @@ This post describes the *free* digital tools I use to organize my day-to-day and
 
 <!-- more -->
 
-**Disclaimer**: I make absolutely no profit from recommending these sites. I am merely expressing my opinion on why these are superior to their alternatives. 
+**Disclaimer**: I make absolutely no profit from recommending these sites. I am merely expressing my opinion on why these are superior to their alternatives.
 
 ## Why use digital tools to organize your life?
 
@@ -45,7 +46,7 @@ The gist of **Trello** is that you have **boards**, which are pretty large and u
 
 Some of my use cases:
 
-- I like reading research papers on various topics and I have a board where I collect their links and group them by topic. 
+- I like reading research papers on various topics and I have a board where I collect their links and group them by topic.
 
 - Me and my friends (who also play guitar) have a shared board where we put links to various songs' chords and tabs or awesome guitar tutorials.
 
@@ -93,7 +94,7 @@ If you don't feel like sanitizing your thoughts and posting them publicly, at le
 
 Might seem weird to talk about **CVs** in this post, but I have an important tip related to organization. You never know when a new opportunity for a job might arise, and if you need to take a few days off to clean up and update your **CV** you could miss out on that offer.
 
-As soon as you get a certification in anything, add it to your **CV**. As early as the first day at the job, add the new workplace to your **CV**.  And if you don't feel like firing up Word or a LaTeX editor, at least update your [LinkedIn](https://www.linkedin.com/). 
+As soon as you get a certification in anything, add it to your **CV**. As early as the first day at the job, add the new workplace to your **CV**.  And if you don't feel like firing up Word or a LaTeX editor, at least update your [LinkedIn](https://www.linkedin.com/).
 
 Remember that the only way a **CV** gets updated as your life progresses is if you add things to it. Periodically making some time to clean it up and remove old / unimportant achievements also helps.
 
