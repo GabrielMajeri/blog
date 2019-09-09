@@ -1,3 +1,4 @@
 # frozen_string_literal: true
 
-gem "minima"
+gem 'jekyll-sitemap'
+gem 'minima'
