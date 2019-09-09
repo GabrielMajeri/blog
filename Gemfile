@@ -1,4 +1,10 @@
 # frozen_string_literal: true
 
-gem 'jekyll-sitemap'
-gem 'minima'
+source "https://rubygems.org"
+
+gem 'jekyll'
+
+group :jekyll_plugins do
+    gem 'jekyll-sitemap'
+    gem 'minima'
+end
