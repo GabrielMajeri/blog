@@ -22,5 +22,7 @@ twitter_username: gabrielmajeri
 theme: minima
 
 plugins:
+  # Automatically update a RSS feed
+  - jekyll-feed
   # Automatically generate a sitemap
   - jekyll-sitemap
