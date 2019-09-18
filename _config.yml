@@ -28,3 +28,10 @@ plugins:
   - jekyll-sitemap
   # Automatically add SEO tags
   - jekyll-seo-tag
+
+# Use kramdown for Markdown processing
+markdown: kramdown
+
+# Enable LaTeX support for math formulas
+kramdown:
+  math_engine: mathjax
