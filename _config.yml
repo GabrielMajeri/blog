@@ -26,3 +26,5 @@ plugins:
   - jekyll-feed
   # Automatically generate a sitemap
   - jekyll-sitemap
+  # Automatically add SEO tags
+  - jekyll-seo-tag
