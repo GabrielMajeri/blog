@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Organize your life with online tools"
+title: "Organize Your Life With Online Tools"
 comments: true
 ---
 
@@ -12,7 +12,7 @@ This post describes the *free* digital tools I use to organize my day-to-day and
 
 **Disclaimer**: I make absolutely no profit from recommending these sites. I am merely expressing my opinion on why these are superior to their alternatives.
 
-## Why use digital tools to organize your life?
+## Why Use Digital Tools to Organize Your Life?
 
 *You can [skip this section](#calendar) if you're already convinced of the benefits of using electronic devices to track your activities*
 
@@ -82,7 +82,7 @@ The tools listed above are quite general and should help any sort of living orga
 
 **Note**: These recommendations might be a bit biased towards developers people involved in the IT industry.
 
-### Start a blog (or keep a journal)
+### Start a Blog (or a Journal)
 
 I knew **blogging** was about creating content and sharing it with the world, but I never though it could be beneficial for the writers themselves (I'm not talking about making profits here).
 

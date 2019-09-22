@@ -32,11 +32,11 @@ Just by looking at the title, it's clear that this book echoes Daniel Dines' bel
 
 When I finished reading, I looked back at all my failures and realized how much has ego affected me. I also looked at my successes and noticed how, by keeping myself grounded in reality, I could focus clearly on the target.
 
-## The advantages of humility
+## The Advantages of Humility
 
 All of those successful people made it because they understood the value of humility. In this section I list some of the main characteristics of being humble and keeping your ego in check.
 
-### Humility is not dreaming about the future
+### Humility is Not Dreaming About The Future
 
 You go out for a beer with some friends, and after talking about *what actually happened* in the past week, you start talking about what's going to happen in a few years. You discuss where you'll go on holiday after you *somehow* invent the next big thing, or how you'll split the money after you win some sort of contest. We've all had moments like that, but sadly just *dreaming* about how you'll one day have success **won't make it happen**. The more you live in a dream, the harder it is to be objective about your current status; you lose direction and stop listening to feedback.
 
@@ -48,7 +48,7 @@ Linus wrote [software](https://www.kernel.org/) that shaped the modern world. Bu
 
 [^2]: From the TED talk [Linus Torvalds: The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
 
-### Humility is always learning
+### Humility is Always Learning
 
 As your ego starts to grow, you become more and more confident in your abilities. If you're just starting out and you're overconfident, it's called the [Dunning-Kruger effect]([https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect)). But there is no name for when you're already experienced in a domain, but fail to realize there is always more to learn.
 
@@ -56,7 +56,7 @@ It's always important to have the **student mindset**, where you approach every 
 
 To give an example from personal experience: after all these years as a programmer, I still use Google to find how to solve simple problems I *already know how to solve*. Over time, new solutions get invented, or existing ones get improved, and I regularly discover new and better ways to do things I already knew how to do.
 
-### Humility is working together with others
+### Humility is Working Together With Others
 
 Perhaps the greatest downside of egotism is that it makes it hard for us to **connect with others**. If you believe yourself to be unstoppable, you won't realize you *need* others to grow. While other people also have busy lives and their own interests, you will be surprised at how eager they are to help you. And **reciprocation** is also important. Whenever you go out of your way and *help somebody* who is doing worse than you, remember how *you've been helped* by those who are better off.
 
