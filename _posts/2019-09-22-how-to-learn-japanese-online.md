@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Learn Japanese Online"
+title: "How to learn Japanese online"
 comments: true
 ---
 

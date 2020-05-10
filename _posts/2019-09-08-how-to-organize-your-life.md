@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Organize Your Life With Online Tools"
+title: "Organize your life with online tools"
 comments: true
 ---
 

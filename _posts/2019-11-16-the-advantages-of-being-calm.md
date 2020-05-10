@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Advantages of Being Calm"
+title: "The advantages of being calm"
 comments: true
 ---
 
@@ -48,7 +48,7 @@ This way of reasoning will help you if you are nervous about a job interview, ev
 
 Dale Carnegie mentions in his book *How to Stop Worrying and Start Living*: focus on **living today to the best of your ability, without worrying about how tomorrow will be or how yesterday was**. Instead of thinking about how many tasks you have on your to-do list, try to pick one of them (preferably the one you can finish the fastest) and do it. The positive feedback loop that comes from solving that task will give you the motivation needed to solve the next one, and this resonance will push you through the day.
 
-Various religions and philosophies around the world also debated this issue. 
+Various religions and philosophies around the world also debated this issue.
 
 Buddhism tells us that the desire of physical or spiritual things is the source of all unhappiness. Give up on wanting stuff, and you will achieve blissfulness.
 
@@ -58,13 +58,13 @@ Taoism encourages us to adopt the [wu wei](https://en.wikipedia.org/wiki/Wu_wei)
 
 Imagine that life is like a river, and you want to swim across.
 
-- Those that flow freely with the river will be taken downstream, and never reach the other side. 
+- Those that flow freely with the river will be taken downstream, and never reach the other side.
 - Those that swim too hard against the current will tire themselves out and eventually drown.
 - Only those that strike a balance, who use just enough effort, will reach the other side.
 
 Taoism teaches us that **balance in all our actions** is the only solution to surviving our agitated lives.
 
-[^2]: [This video](https://www.youtube.com/watch?v=JtGtqmC5wU4) provides a simple introduction to taoism with easy-to-understand analogies. 
+[^2]: [This video](https://www.youtube.com/watch?v=JtGtqmC5wU4) provides a simple introduction to taoism with easy-to-understand analogies.
 
 ## Closing words
 

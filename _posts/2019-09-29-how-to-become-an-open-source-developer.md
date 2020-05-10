@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Become an Open Source Developer"
+title: "How to become an open source developer"
 comments: true
 ---
 

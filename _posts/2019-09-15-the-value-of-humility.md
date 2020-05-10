@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Value of Humility"
+title: "The value of humility"
 comments: true
 ---
 
