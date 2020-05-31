@@ -40,7 +40,7 @@ Important point to remember when trying to solve an issue: you’re not alone! T
 
 ## Second attempt
 
-After a nightly with the compiler changes get released, I brushed off my old code and opened a [new pull request](https://github.com/rust-lang/cargo/pull/8246). With helpful feedback from [Joseph Richey](https://github.com/josephlr) and Alex Crichton, I've fixed a bug and added a few tests. The commits were soon merged into `master`!
+After a nightly with the compiler changes got released, I brushed off my old code and opened a [new pull request](https://github.com/rust-lang/cargo/pull/8246). With helpful feedback from [Joseph Richey](https://github.com/josephlr) and Alex Crichton, I fixed a bug and added a few tests. The commits were soon merged into `master`!
 
 I've also [added a comment](https://github.com/rust-lang/cargo/issues/3483#issuecomment-631395566) describing the fix back on the original issue, in case somebody stumbles across it on Google and wants to know how to strip symbols from their binaries.
 
