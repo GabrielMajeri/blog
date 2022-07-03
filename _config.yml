@@ -28,6 +28,8 @@ plugins:
   - jekyll-sitemap
   # Automatically add SEO tags
   - jekyll-seo-tag
+  # Automatically add `target="_blank"` to external links
+  - jekyll-target-blank
 
 # Use kramdown for Markdown processing
 markdown: kramdown
