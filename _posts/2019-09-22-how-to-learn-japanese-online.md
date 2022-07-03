@@ -20,7 +20,7 @@ The entries in this list are sorted by the order in which they will become helpf
 
 Some features to look out for in Jisho:
 
-- Clicking on any kanji opens [a separate page](https://jisho.org/search/人%20%23kanji) with a longer description, kun'- and on'yomi readings, and **animated handwriting instructions**.
+- Clicking on any kanji opens [a separate page](<https://jisho.org/search/%E4%BA%BA%20%23kanji>) with a longer description, kun'- and on'yomi readings, and **animated handwriting instructions**.
 
 - If you search for any word, on the sidebar you will see **example sentences** provided by the [Tatoeba](https://tatoeba.org/eng/) project.
 

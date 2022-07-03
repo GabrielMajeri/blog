@@ -62,7 +62,7 @@ When starting out, you could use a board for each project you are planning. If y
 
 ## Google Keep
 
-While **Trello** is great for those times when you have the possibility to plan ahead, sometimes you don't feel like creating a new board just to write down a grocery list. **Keep** is a simple note-taking app with a [mobile app](https://play.google.com/store/apps/details?id=com.google.android.keep) and a [web interface]([https://keep.google.com](https://keep.google.com/)).
+While **Trello** is great for those times when you have the possibility to plan ahead, sometimes you don't feel like creating a new board just to write down a grocery list. **Keep** is a simple note-taking app with a [mobile app](https://play.google.com/store/apps/details?id=com.google.android.keep) and a [web interface](https://keep.google.com/).
 
 One mistake I made when I first started using **Keep** a few years ago is that I took too many notes and started getting lost in them. While **Trello** scales well if you have complex projects, **Keep** simply wasn't designed for that kind of data. Avoid having more than a dozen (active) notes or you risk getting lost in them.
 

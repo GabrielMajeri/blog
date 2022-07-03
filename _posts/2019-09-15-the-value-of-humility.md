@@ -14,7 +14,7 @@ Daniel presented a short bit of his life story: how he started as a programmer i
 
 Cambridge Dictionary [provides](https://dictionary.cambridge.org/dictionary/english/humility) a concise definition[^1] of humility: **the quality of not being proud because you are aware of your bad qualities**. Humility is the wisdom you are entrusted with once you realize how much there is left to learn. It is what made Socrates affirm that the only thing [he knows is that he knows nothing](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing) when the Oracle of Delphi named him the wisest man in Ancient Greece.
 
-[^1]: Daniel pointed out that in Romanian, the direct translation of humility, *umilință*, has [negative connotations]([https://dexonline.ro/definitie/umilin%C8%9B%C4%83](https://dexonline.ro/definitie/umilință)), suggesting that you feel inferior to someone else. It's an unfortunate evolution of a word's meaning.
+[^1]: Daniel pointed out that in Romanian, the direct translation of humility, *umilință*, has [negative connotations](https://dexonline.ro/definitie/umilin%C8%9B%C4%83), suggesting that you feel inferior to someone else. It's an unfortunate evolution of a word's meaning.
 
 ## Humility as a Core Value
 
@@ -50,7 +50,7 @@ Linus wrote [software](https://www.kernel.org/) that shaped the modern world. Bu
 
 ### Humility is Always Learning
 
-As your ego starts to grow, you become more and more confident in your abilities. If you're just starting out and you're overconfident, it's called the [Dunning-Kruger effect]([https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect](https://en.wikipedia.org/wiki/Dunning–Kruger_effect)). But there is no name for when you're already experienced in a domain, but fail to realize there is always more to learn.
+As your ego starts to grow, you become more and more confident in your abilities. If you're just starting out and you're overconfident, it's called the [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning-Kruger_effect). But there is no name for when you're already experienced in a domain, but fail to realize there is always more to learn.
 
 It's always important to have the **student mindset**, where you approach every new situation with a willingness to learn and improve yourself. No matter how much you already know, you can always find a new approach or perspective to an existing problem.
 
