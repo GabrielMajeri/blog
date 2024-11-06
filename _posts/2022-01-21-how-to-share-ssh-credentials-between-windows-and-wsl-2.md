@@ -70,7 +70,7 @@ It would be nice if we could make the minimal amount of changes to get the `.ssh
 [`fstab`](https://www.redhat.com/sysadmin/etc-fstab), short for file system table, is a configuration file used by the startup process to determine which file systems need to be automatically mounted where. This is how Linux knows where to find your root file system, or the swap partition, and so on.
 
 ```
-C:\Users\<your Windows username>\.ssh\ /home/<your Linux username>/.ssh drvfs rw,noatime,uid=1000,gid=1000,case=off,umask=0077,fmask=0177 0 0
+C:\Users\<your Windows username>\.ssh /home/<your Linux username>/.ssh drvfs rw,noatime,uid=1000,gid=1000,case=off,umask=0077,fmask=0177 0 0
 ```
 
 The first argument must be the Windows-specific path to the folder you want to mount in WSL. The second argument indicates the target mount location.
